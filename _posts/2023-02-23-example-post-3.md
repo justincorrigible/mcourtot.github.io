@@ -1,6 +1,6 @@
 ---
 title: Example post 3
-author: john-doe
+author: melanie-courtot
 tags: biology, medicine
 ---
 

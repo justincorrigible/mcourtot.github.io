@@ -1,6 +1,6 @@
 ---
 title: Example post 1
-author: sarah-johnson
+author: justin-richardsson
 tags:
   - biology
   - medicine
