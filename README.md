@@ -8,6 +8,6 @@ After receiving a BSc in Biochemistry and Master in Computer Science (2002) from
 
 I can be found on twitter, @mcourtot, where I often post about science, equity and diversity, food and silly things me or my children do.
 
-Visit **[courtot.genomeinformatics.org](https://courtot.genomeinformatics.org)** 🚀
+Visit **[courtotlab.genomeinformatics.org](https://courtotlab.genomeinformatics.org)** 🚀
 
 _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
