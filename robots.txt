@@ -1,1 +1,1 @@
-Sitemap: /mcourtot.github.io/sitemap.xml
+Sitemap: /sitemap.xml
