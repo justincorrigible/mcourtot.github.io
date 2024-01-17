@@ -1,23 +1,63 @@
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+- id: other-id:c7517
+  title: 'Semantic models in biomedicine: Building interoperating ontologies for biomedical
+    data representation and processing in pharmacovigilance'
+  date: '2014-05-22'
+  authors:
+    - Melanie Courtot
+  image: https://cdn.freebiesupply.com/logos/large/2x/ubc-logo-png-transparent.png
+  link: https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0167454
+  publisher: 'University of British Columbia'
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+
+- id: doi:10.1101/2021.11.27.21266944
+  image: http://phenopackets.org/site/PhenoPackets_Logo.png
+
+
+
+- id: doi:10.1093/nar/gkab1046
+  image: https://www.ebi.ac.uk/biosamples/images/logo_biosamples.png
+
+
+- id: doi:10.1016/j.xgen.2021.100028
+  image: https://raw.githubusercontent.com/EBISPOT/DUO/master/doc/figs/DUO_logo_white_background.png
+
+- id: doi:10.1093/nar/gkw1004
+  date: '2016-10-26'
+  image: https://upload.wikimedia.org/wikipedia/commons/6/69/McArthur_Lab_Logo.png
+
+
+- id: eid:2-s2.0-84885705904
+  date: '2008-10-26'
+  image: http://webont.org/owled/owl.png
+  authors:
+  - "M\xE9lanie Courtot"
+  - William J. Bug
+  - Frank Gibson
+  - Allyson L. Lister
+  - James Malone
+  - Daniel Schober
+  - Ryan R Brinkman
+  - Alan Ruttenberg
+
+
+- id: eid:2-s2.0-84872831891
+  date: '2010-07-09'
+  image: https://www.researchgate.net/profile/Yongqun-He/publication/257869977/figure/fig4/AS:293941552402453@1447092535422/Ontological-representation-of-a-vaccine-protection-assay-and-related-variables-The_Q320.jpg
+  authors:
+  - Yongqun He
+  - Zuoshuang Xiang
+  - Thomas Todd
+  - "M\xE9lanie Courtot"
+  - Ryan Brinkman
+  - Jie Zheng
+  - Christian J. Stoeckert Jr.
+  - James Malone
+  - Philippe Rocca-Serra
+  - Susanna Assunta Sansone
+  - Jennifer Fostel
+  - Larisa N. Soldatova
+  - Bjoern Peters
+  - Alan Ruttenberg
+ 
+
