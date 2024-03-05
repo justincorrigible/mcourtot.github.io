@@ -1,47 +1,157 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+# - title: Cool Dataset
+#   subtitle: a subtitle
+#   group: featured
+#   image: images/photo.jpg
+#   link: https://github.com/
+#   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   repo: greenelab/lab-website-template
+#   tags:
+#     - resource
+
+# - title: Cool Package
+#   subtitle: a subtitle
+#   group: featured
+#   image: images/photo.jpg
+#   link: https://github.com/
+#   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   repo: greenelab/lab-website-template
+#   tags:
+#     - resource
+
+# - title: Cool Tutorial
+#   subtitle: a subtitle
+#   image: images/photo.jpg
+#   link: https://github.com/
+#   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   repo: greenelab/lab-website-template
+#   tags:
+#     - resource
+#     - publication
+
+# - title: Cool Web App
+#   subtitle: a subtitle
+#   image: images/photo.jpg
+#   link: https://github.com/
+#   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   repo: greenelab/lab-website-template
+#   tags:
+#     - software
+
+# - title: Cool Web Server
+#   subtitle: a subtitle
+#   image: images/photo.jpg
+#   link: https://github.com/
+#   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   repo: greenelab/lab-website-template
+#   tags:
+#     - software
+
+
+
+
+
+- title: ICGC-ARGO
+  image: "/images/tools/ICGCARGO.png"
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: Software infrastructure including the ICGC-ARGO data portal, dictionary and Data Access Control Office (DACO).
+  repo: https://github.com/icgc-argo
+  link: https://platform.icgc-argo.org/repository?filters=%7B%22content%22%3A%5B%5D%2C%22op%22%3A%22and%22%7D
   tags:
     - resource
+- title: VirusSeq
+  image: "/images/tools/VIRUSSEQ.png"
+  description: A public-access Canadian COVID-19 viral sequence portal, built by OICR.
+  repo: https://github.com/cancogen-virus-seq
+  link: https://virusseq-dataportal.ca/
+  tags:
+    - resource
+- title: ICGC 25K
+  image: "/images/tools/ICGC.png"
+  description: The ICGC Data Coordination Center software infrastructure including the ICGC data portal.
+  repo: https://github.com/icgc-dcc
+  link: https://dcc.icgc.org/repositories
+  tags:
+    - resource
+- title: OHCRN
+  image: "/images/tools/OHCRN.png"
+  description: Enabling genomics and gene discovery for carriers of hereditary cancer syndromes.
+  repo: 
+  link: https://oicr.on.ca/programs/ontario-hereditary-cancer-research-network/
+  tags:
+    - resource
+- title: HCMI
+  image: "/images/tools/HCMI.png"
+  description: A data portal for human tumor-derived culture models with associated genomic and clinical data.
+  repo: https://github.com/nci-hcmi-catalog/portal
+  link: https://hcmi-searchable-catalog.nci.nih.gov/
+  tags:
+    - resource
+- title: IHCC
+  image: "/images/tools/IHCC.png"
+  description: The International 100K Cohorts Consortium (IHCC) a global platform for translational research.
+  repo: https://github.com/IHCC-cohorts
+  link: https://atlas.ihccglobal.org/
+  tags:
+    - resource
+- title: EUCANCan
+  image: "/images/tools/EUCANCAN.png"
+  description: A European-Canadian cancer network facilitating the efficient analysis, management and sharing of cancer genomic data.
+  repo: https://github.com/EUCANCan
+  link: https://eucancan.com/
+  tags:
+    - resource
+- title: NCI Genomic Data Commons
+  image: "/images/tools/GDC.png"
+  description: US-based unified data repository that enables data sharing across cancer genomic studies.
+  repo: https://github.com/NCI-GDC
+  link: https://portal.kidsfirstdrc.org/login
+  tags:
+    - resource
+- title: Kids First
+  image: "/images/tools/KIDSFIRST.png"
+  description: Discovery platform for pediatric cancer and structural birth defect data.
+  repo: https://github.com/kids-first/
+  link: https://portal.kidsfirstdrc.org/login
+  tags:
+    - resource
+  # tool loop in tool category
+  # - name: PGCL
+  #   image: "/assets/images/tools/vs-code.png"
+  #   link: https://hcmi-searchable-catalog.nci.nih.gov/
 
-- title: Cool Package
-  subtitle: a subtitle
+
+- title: Overture
+  image: "/images/tools/OVERTURE.png"
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
-
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: A collection of open-source, extendable solutions for big-data genomic science.
+  repo: https://github.com/overture-stack
+  link: https://www.overture.bio/
   tags:
     - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Overture DMS
+  image: "/images/tools/DMS.svg"
+  description: Turnkey installation, configuration, and deployment of the Overture software.
+  repo: https://github.com/overture-stack/dms
+  link: https://www.overture.bio/
   tags:
     - software
+- title: Cancer Genome Collaboratory
+  image: "/images/tools/CGC.png"
+  description: ICGC cloud compute & storage cluster enhanced with custom-built software.
+  repo: https://github.com/CancerCollaboratory
+  link: https://cancercollaboratory.org/
+  tags:
+   - software
+- title: OncoJS
+  image: "/images/tools/ONCOJS.png"
+  description: Javascript visualizations for cancer analytics.
+  repo: https://github.com/oncojs
+  tags:
+   - software
+- title: Dockstore
+  image: "/images/tools/DOCKSTORE.png"
+  description: An open platform for sharing Docker-based tools described with the Common Workflow Language used by the GA4GH.
+  repo: https://github.com/dockstore/dockstore
+  link: https://dockstore.org/
+  tags:
+  - software

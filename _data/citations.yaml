@@ -110,20 +110,6 @@
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:zYLM7Y9cAGgC
-  title: 'OntoFox: web-based support for ontology reuse'
-  authors:
-  - Z Xiang
-  - M Courtot
-  - RR Brinkman
-  - A Ruttenberg
-  - Y He
-  publisher: BMC research notes 3, 1-12, 2010
-  date: '2010-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:zYLM7Y9cAGgC
-  gsid: ceQ3BE0AAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: ceQ3BE0AAAAJ:GnPB-g6toBAC
   title: 'FAIR principles: interpretations and implementation considerations'
   authors:
@@ -137,6 +123,20 @@
   publisher: Data intelligence 2 (1-2), 10-29, 2020
   date: '2020-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:GnPB-g6toBAC
+  gsid: ceQ3BE0AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: ceQ3BE0AAAAJ:zYLM7Y9cAGgC
+  title: 'OntoFox: web-based support for ontology reuse'
+  authors:
+  - Z Xiang
+  - M Courtot
+  - RR Brinkman
+  - A Ruttenberg
+  - Y He
+  publisher: BMC research notes 3, 1-12, 2010
+  date: '2010-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:zYLM7Y9cAGgC
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -292,6 +292,22 @@
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: ceQ3BE0AAAAJ:_Qo2XoVZTnwC
+  title: 'Prospects for Fungal Bioremediation of Acidic Radioactive Waste Sites: Characterization
+    and Genome Sequence of Rhodotorula taiwanensis MD1149'
+  authors:
+  - R Tkavc
+  - VY Matrosova
+  - OE Grichenko
+  - "C Gostin\u010Dar"
+  - RP Volpe
+  - '...'
+  publisher: Frontiers in microbiology 8, 2528, 2018
+  date: '2018-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:_Qo2XoVZTnwC
+  gsid: ceQ3BE0AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: ceQ3BE0AAAAJ:OU6Ihb5iCvQC
   title: "Basic Formal Ontology 2.0: Specification and user\u2019s guide"
   authors:
@@ -321,22 +337,6 @@
   publisher: Aug-2009, 2009
   date: '2009-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:O3NaXMp0MMsC
-  gsid: ceQ3BE0AAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:_Qo2XoVZTnwC
-  title: 'Prospects for Fungal Bioremediation of Acidic Radioactive Waste Sites: Characterization
-    and Genome Sequence of Rhodotorula taiwanensis MD1149'
-  authors:
-  - R Tkavc
-  - VY Matrosova
-  - OE Grichenko
-  - "C Gostin\u010Dar"
-  - RP Volpe
-  - '...'
-  publisher: Frontiers in microbiology 8, 2528, 2018
-  date: '2018-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:_Qo2XoVZTnwC
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -427,22 +427,6 @@
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:iH-uZ7U-co4C
-  title: The integrated rapid infectious disease analysis (IRIDA) platform
-  authors:
-  - TC Matthews
-  - FR Bristow
-  - EJ Griffiths
-  - A Petkau
-  - J Adam
-  - D Dooley
-  - '...'
-  publisher: BioRxiv, 381830, 2018
-  date: '2018-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:iH-uZ7U-co4C
-  gsid: ceQ3BE0AAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: ceQ3BE0AAAAJ:zA6iFVUQeVQC
   title: The Data Use Ontology to streamline responsible access to human biomedical
     datasets
@@ -457,6 +441,22 @@
   publisher: Cell Genomics 1 (2), 2021
   date: '2021-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:zA6iFVUQeVQC
+  gsid: ceQ3BE0AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: ceQ3BE0AAAAJ:iH-uZ7U-co4C
+  title: The integrated rapid infectious disease analysis (IRIDA) platform
+  authors:
+  - TC Matthews
+  - FR Bristow
+  - EJ Griffiths
+  - A Petkau
+  - J Adam
+  - D Dooley
+  - '...'
+  publisher: BioRxiv, 381830, 2018
+  date: '2018-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:iH-uZ7U-co4C
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -475,6 +475,22 @@
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: ceQ3BE0AAAAJ:fPk4N6BV_jEC
+  title: GA4GH Passport standard for digital identity and access permissions
+  authors:
+  - C Voisin
+  - M Linden
+  - SOM Dyke
+  - SR Bowers
+  - P Alper
+  - MP Barkley
+  - '...'
+  publisher: Cell Genomics 1 (2), 2021
+  date: '2021-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:fPk4N6BV_jEC
+  gsid: ceQ3BE0AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: ceQ3BE0AAAAJ:qUcmZB5y_30C
   title: 'From data repositories to submission portals: rethinking the role of domain-specific
     databases in CollecTF'
@@ -490,22 +506,6 @@
   publisher: Database 2016, baw055, 2016
   date: '2016-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:qUcmZB5y_30C
-  gsid: ceQ3BE0AAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:fPk4N6BV_jEC
-  title: GA4GH Passport standard for digital identity and access permissions
-  authors:
-  - C Voisin
-  - M Linden
-  - SOM Dyke
-  - SR Bowers
-  - P Alper
-  - MP Barkley
-  - '...'
-  publisher: Cell Genomics 1 (2), 2021
-  date: '2021-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:fPk4N6BV_jEC
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -537,6 +537,18 @@
   publisher: Applied ontology 6 (1), 13-22, 2011
   date: '2011-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:Y0pCki6q_DkC
+  gsid: ceQ3BE0AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: ceQ3BE0AAAAJ:u9iWguZQMMsC
+  title: Formal medical knowledge representation supports deep learning algorithms,
+    bioinformatics pipelines, genomics data analysis, and big data processes
+  authors:
+  - F Dhombres
+  - J Charlet
+  publisher: Yearbook of medical informatics 28 (01), 152-155, 2019
+  date: '2019-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:u9iWguZQMMsC
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -613,6 +625,23 @@
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: ceQ3BE0AAAAJ:p2g8aNsByqUC
+  title: FAIR in action-a flexible framework to guide FAIRification
+  authors:
+  - D Welter
+  - N Juty
+  - P Rocca-Serra
+  - F Xu
+  - D Henderson
+  - W Gu
+  - J Strubel
+  - '...'
+  publisher: Scientific data 10 (1), 291, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:p2g8aNsByqUC
+  gsid: ceQ3BE0AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: ceQ3BE0AAAAJ:ZeXyd9-uunAC
   title: 'UniProt-GOA: A central resource for data integration and GO annotation.'
   authors:
@@ -647,23 +676,6 @@
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:p2g8aNsByqUC
-  title: FAIR in action-a flexible framework to guide FAIRification
-  authors:
-  - D Welter
-  - N Juty
-  - P Rocca-Serra
-  - F Xu
-  - D Henderson
-  - W Gu
-  - J Strubel
-  - '...'
-  publisher: Scientific data 10 (1), 291, 2023
-  date: '2023-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:p2g8aNsByqUC
-  gsid: ceQ3BE0AAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: ceQ3BE0AAAAJ:LkGwnXOMwfcC
   title: Towards an Adverse Event Reporting Ontology.
   authors:
@@ -688,21 +700,6 @@
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:HDshCWvjkbEC
-  title: 'Slim-o-matic: a Semi-Automated Way to Generate Gene Ontology Slims.'
-  authors:
-  - M Courtot
-  - AL Mitchell
-  - M Scheremetjew
-  - "JP Gonz\xE1lez"
-  - LI Furlong
-  - '...'
-  publisher: SWAT4LS 2016, 2016
-  date: '2016-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:HDshCWvjkbEC
-  gsid: ceQ3BE0AAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: ceQ3BE0AAAAJ:f2IySw72cVMC
   title: Features of a FAIR vocabulary
   authors:
@@ -715,23 +712,6 @@
   publisher: Journal of Biomedical Semantics 14 (1), 1-11, 2023
   date: '2023-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:f2IySw72cVMC
-  gsid: ceQ3BE0AAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:KxtntwgDAa4C
-  title: 'Accelerating cancer omics and precision oncology in health care and research:
-    A Lancet Oncology Commission'
-  authors:
-  - R Casolino
-  - AL Johns
-  - M Courtot
-  - RT Lawlor
-  - F De Lorenzo
-  - D Horgan
-  - '...'
-  publisher: The lancet oncology 24 (2), 123-125, 2023
-  date: '2023-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:KxtntwgDAa4C
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -750,6 +730,38 @@
   publisher: F1000Research 11, 2022
   date: '2022-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:a0OBvERweLwC
+  gsid: ceQ3BE0AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: ceQ3BE0AAAAJ:HDshCWvjkbEC
+  title: 'Slim-o-matic: a Semi-Automated Way to Generate Gene Ontology Slims.'
+  authors:
+  - M Courtot
+  - AL Mitchell
+  - M Scheremetjew
+  - "JP Gonz\xE1lez"
+  - LI Furlong
+  - '...'
+  publisher: SWAT4LS 2016, 2016
+  date: '2016-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:HDshCWvjkbEC
+  gsid: ceQ3BE0AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: ceQ3BE0AAAAJ:KxtntwgDAa4C
+  title: 'Accelerating cancer omics and precision oncology in health care and research:
+    A Lancet Oncology Commission'
+  authors:
+  - R Casolino
+  - AL Johns
+  - M Courtot
+  - RT Lawlor
+  - F De Lorenzo
+  - D Horgan
+  - '...'
+  publisher: The lancet oncology 24 (2), 123-125, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:KxtntwgDAa4C
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -791,8 +803,8 @@
   - M Plass
   - C Allocca
   - '...'
-  publisher: Learning Health Systems, e10365, 2023
-  date: '2023-01-01'
+  publisher: Learning health systems 8 (1), e10365, 2024
+  date: '2024-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:SP6oXDckpogC
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
