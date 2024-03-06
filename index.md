@@ -26,7 +26,7 @@ Our research focuses on new methods for improving data quality, based on knowled
 
 {%
   include feature.html
-  image="images/learn.png"
+  image="images/lab.png"
   link="research"
   title="Our Research"
   text=text
