@@ -26,7 +26,7 @@ Our research focuses on new methods for improving data quality, based on knowled
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/learn.png"
   link="research"
   title="Our Research"
   text=text
@@ -49,7 +49,7 @@ We build intelligent systems to gain new insights to better predict patients’ 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/overture_cycle.png"
   link="projects"
   title="Our Projects"
   flip=true
@@ -74,7 +74,7 @@ The Courtot Lab is the research arm of the Genome Informatics team at OICR.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/members/team_in_lab.jpg"
   link="team"
   title="Our Team"
   text=text
