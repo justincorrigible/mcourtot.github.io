@@ -1,7 +1,7 @@
 ---
 name: Anders Richardsson
 image: images/members/20190401_Anders_Richardsson.jpg
-description: Lead Programmer
+description: Associate Technical director
 role: programmer
 aliases:
   - AJ Richardsson
@@ -15,4 +15,3 @@ links:
   github: justincorrigible
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
