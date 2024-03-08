@@ -7,71 +7,34 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The Courtot lab is located at the <a href="https://oicr.on.ca/">Ontario Institute for Cancer Research</a>, in downtown Toronto. Together with the  OICR software engineering team they form the Genome Informatics program, led by Dr. Courtot.
+If you are interested in knowledge representation, data standards and integration, big data management and sharing, and open science please get in touch. We are always interested in new projects, collaborators or lab members. 
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="mcourtot@oicr.on.ca"
+  link="mailto:mcourtot@oicr.on.ca"
 %}
-{%
+<!-- {%
   include button.html
   type="phone"
   text="(555) 867-5309"
   link="+1-555-867-5309"
-%}
+%} -->
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://maps.app.goo.gl/WvVL5oJd8wawkrZe9"
 %}
 
 {% include section.html %}
 
-{% capture col1 %}
+## Students
 
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
+Before joining the Courtot lab **graduate students must be accepted in a graduate program at the University of Toronto** in the <a href="https://medbio.utoronto.ca/">Department of Medical Biophysics</a> (PhD or MSc programs)
 
-{% endcapture %}
+<u>Required qualifications:</u> Admission to one of the graduate programs above. Some computational background, e.g., experience in programming.
+<u>Desired qualifications:</u> Experience or coursework in computational biology. Experience in Python and Unix-like environments.
 
-{% capture col2 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
-
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 %}
-
-{% include section.html dark=true %}
-
-{% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
