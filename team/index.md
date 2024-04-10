@@ -17,7 +17,7 @@ The Courtot lab is located at the Ontario Institute for Cancer Research. It is t
 {% include list.html data="members" component="portrait" filters="role: progmanager" %}
 {% include list.html data="members" component="portrait" filters="role: programmer" %}
 {% include list.html data="members" component="portrait" filters="role: phd" %}
-
+{% include list.html data="members" component="portrait" filters="role: admin" %}
 
 {% include section.html dark=true %}
 

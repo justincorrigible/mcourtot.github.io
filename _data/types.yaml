@@ -10,6 +10,10 @@ progmanager:
   icon: fa-solid fa-list-check
   description: Program Manager
 
+admin:
+  icon: fa-solid fa-calendar
+  description: Executive Assistant
+
 postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
