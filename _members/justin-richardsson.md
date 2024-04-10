@@ -15,3 +15,7 @@ links:
   github: justincorrigible
 ---
 
+
+A crossbreed of Software Engineer and UX Designer; devoted to functional programming, behavioural economics, information architecture, heuristics, and metacognitive analysis.
+
+May or not be a chatbot.
