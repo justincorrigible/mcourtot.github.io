@@ -38,3 +38,6 @@ Before joining the Courtot lab **graduate students must be accepted in a graduat
 <u>Required qualifications:</u> Admission to one of the graduate programs above. Some computational background, e.g., experience in programming.
 <u>Desired qualifications:</u> Experience or coursework in computational biology. Experience in Python and Unix-like environments.
 
+## Open positions
+
+Staff positions, when available, are advertised through the <a href="https://oicr.bamboohr.com/careers">OICR careers' page</a>. Beyond advertised positions, we welcome enquiries from post-docs and computational biologists. Please include topics or projects of interest, possible funding streams and describe relevant experience when contacting us.
