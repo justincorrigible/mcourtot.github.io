@@ -6,6 +6,10 @@ pi:
   icon: fa-solid fa-microscope
   description: Principal Investigator
 
+progmanager:
+  icon: fa-solid fa-list-check
+  description: Program Manager
+
 postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
