@@ -1,6 +1,6 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: ceQ3BE0AAAAJ:isC4tDSrTZIC
+- id: ceQ3BE0AAAAJ:isC4tDSrTZIC2
   title: 'The gene ontology resource: 20 years and still GOing strong'
   authors:
   - Gene Ontology Consortium
@@ -126,20 +126,6 @@
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:zYLM7Y9cAGgC
-  title: 'OntoFox: web-based support for ontology reuse'
-  authors:
-  - Z Xiang
-  - M Courtot
-  - RR Brinkman
-  - A Ruttenberg
-  - Y He
-  publisher: BMC research notes 3, 1-12, 2010
-  date: '2010-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:zYLM7Y9cAGgC
-  gsid: ceQ3BE0AAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: ceQ3BE0AAAAJ:4DMP91E08xMC
   title: Finding our way through phenotypes
   authors:
@@ -153,6 +139,20 @@
   publisher: PLoS biology 13 (1), e1002033, 2015
   date: '2015-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:4DMP91E08xMC
+  gsid: ceQ3BE0AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: ceQ3BE0AAAAJ:zYLM7Y9cAGgC
+  title: 'OntoFox: web-based support for ontology reuse'
+  authors:
+  - Z Xiang
+  - M Courtot
+  - RR Brinkman
+  - A Ruttenberg
+  - Y He
+  publisher: BMC research notes 3, 1-12, 2010
+  date: '2010-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:zYLM7Y9cAGgC
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -173,22 +173,6 @@
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:qjMakFHDy7sC
-  title: 'MIREOT: The minimum information to reference an external ontology term'
-  authors:
-  - M Courtot
-  - F Gibson
-  - AL Lister
-  - J Malone
-  - D Schober
-  - RR Brinkman
-  - '...'
-  publisher: Applied Ontology 6 (1), 23-33, 2011
-  date: '2011-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:qjMakFHDy7sC
-  gsid: ceQ3BE0AAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: ceQ3BE0AAAAJ:qxL8FJ1GzNcC
   title: 'Structural genomics on membrane proteins: comparison of more than 100 GPCRs
     in 3 expression systems'
@@ -206,8 +190,24 @@
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: ceQ3BE0AAAAJ:qjMakFHDy7sC
+  title: 'MIREOT: The minimum information to reference an external ontology term'
+  authors:
+  - M Courtot
+  - F Gibson
+  - AL Lister
+  - J Malone
+  - D Schober
+  - RR Brinkman
+  - '...'
+  publisher: Applied Ontology 6 (1), 23-33, 2011
+  date: '2011-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:qjMakFHDy7sC
+  gsid: ceQ3BE0AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: ceQ3BE0AAAAJ:-f6ydRqryjwC
-  title: 'Ontobee: a linked ontology data server to support ontology term dereferencing,
+  title: 'Ontobee: A linked ontology data server to support ontology term dereferencing,
     linkage, query and integration'
   authors:
   - E Ong
@@ -293,8 +293,8 @@
   plugin: google-scholar.py
   file: google-scholar.yaml
 - id: ceQ3BE0AAAAJ:_Qo2XoVZTnwC
-  title: 'Prospects for Fungal Bioremediation of Acidic Radioactive Waste Sites: Characterization
-    and Genome Sequence of Rhodotorula taiwanensis MD1149'
+  title: 'Prospects for fungal bioremediation of acidic radioactive waste sites: characterization
+    and genome sequence of Rhodotorula taiwanensis MD1149'
   authors:
   - R Tkavc
   - VY Matrosova
@@ -302,9 +302,25 @@
   - "C Gostin\u010Dar"
   - RP Volpe
   - '...'
-  publisher: Frontiers in microbiology 8, 2528, 2018
+  publisher: Frontiers in microbiology 8, 305317, 2018
   date: '2018-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:_Qo2XoVZTnwC
+  gsid: ceQ3BE0AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: ceQ3BE0AAAAJ:O3NaXMp0MMsC
+  title: 'MIREOT: the minimum information to reference an external ontology term'
+  authors:
+  - M Courtot
+  - F Gibson
+  - A Lister
+  - J Malone
+  - D Schober
+  - RR Brinkman
+  - '...'
+  publisher: Aug-2009, 2009
+  date: '2009-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:O3NaXMp0MMsC
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -318,25 +334,9 @@
   - W Ceusters
   - M Courtot
   - '...'
-  publisher: 'National Center for Ontological Research: Buffalo, NY, USA, 2015'
+  publisher: 'National Center for Ontological Research: Buffalo, NY, USA, 50, 2015'
   date: '2015-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:OU6Ihb5iCvQC
-  gsid: ceQ3BE0AAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:O3NaXMp0MMsC
-  title: 'MIREOT: the minimum information to reference an external ontology term'
-  authors:
-  - M Courtot
-  - F Gibson
-  - AL Lister
-  - J Malone
-  - D Schober
-  - RR Brinkman
-  - '...'
-  publisher: Aug-2009, 2009
-  date: '2009-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:O3NaXMp0MMsC
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -347,7 +347,7 @@
   - M Courtot
   - JP Balhoff
   - C Mungall
-  publisher: Journal of biomedical semantics 8 (1), 1-7, 2017
+  publisher: Journal of biomedical semantics 8, 1-7, 2017
   date: '2017-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:e5wmG9Sq2KIC
   gsid: ceQ3BE0AAAAJ
@@ -475,22 +475,6 @@
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:fPk4N6BV_jEC
-  title: GA4GH Passport standard for digital identity and access permissions
-  authors:
-  - C Voisin
-  - M Linden
-  - SOM Dyke
-  - SR Bowers
-  - P Alper
-  - MP Barkley
-  - '...'
-  publisher: Cell Genomics 1 (2), 2021
-  date: '2021-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:fPk4N6BV_jEC
-  gsid: ceQ3BE0AAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: ceQ3BE0AAAAJ:qUcmZB5y_30C
   title: 'From data repositories to submission portals: rethinking the role of domain-specific
     databases in CollecTF'
@@ -506,6 +490,22 @@
   publisher: Database 2016, baw055, 2016
   date: '2016-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:qUcmZB5y_30C
+  gsid: ceQ3BE0AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: ceQ3BE0AAAAJ:fPk4N6BV_jEC
+  title: GA4GH Passport standard for digital identity and access permissions
+  authors:
+  - C Voisin
+  - M Linden
+  - SOM Dyke
+  - SR Bowers
+  - P Alper
+  - MP Barkley
+  - '...'
+  publisher: Cell Genomics 1 (2), 2021
+  date: '2021-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:fPk4N6BV_jEC
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -540,18 +540,6 @@
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:u9iWguZQMMsC
-  title: Formal medical knowledge representation supports deep learning algorithms,
-    bioinformatics pipelines, genomics data analysis, and big data processes
-  authors:
-  - F Dhombres
-  - J Charlet
-  publisher: Yearbook of medical informatics 28 (01), 152-155, 2019
-  date: '2019-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:u9iWguZQMMsC
-  gsid: ceQ3BE0AAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: ceQ3BE0AAAAJ:u_35RYKgDlwC
   title: Empirical validation of an automated approach to data use oversight
   authors:
@@ -565,6 +553,18 @@
   publisher: Cell Genomics 1 (2), 2021
   date: '2021-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:u_35RYKgDlwC
+  gsid: ceQ3BE0AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: ceQ3BE0AAAAJ:u9iWguZQMMsC
+  title: Formal medical knowledge representation supports deep learning algorithms,
+    bioinformatics pipelines, genomics data analysis, and big data processes
+  authors:
+  - F Dhombres
+  - J Charlet
+  publisher: Yearbook of medical informatics 28 (01), 152-155, 2019
+  date: '2019-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:u9iWguZQMMsC
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -676,6 +676,21 @@
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: ceQ3BE0AAAAJ:f2IySw72cVMC
+  title: Features of a FAIR vocabulary
+  authors:
+  - F Xu
+  - N Juty
+  - C Goble
+  - S Jupp
+  - H Parkinson
+  - M Courtot
+  publisher: Journal of Biomedical Semantics 14 (1), 6, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:f2IySw72cVMC
+  gsid: ceQ3BE0AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: ceQ3BE0AAAAJ:LkGwnXOMwfcC
   title: Towards an Adverse Event Reporting Ontology.
   authors:
@@ -697,21 +712,6 @@
   publisher: ''
   date: '2011-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:_FxGoFyzp5QC
-  gsid: ceQ3BE0AAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:f2IySw72cVMC
-  title: Features of a FAIR vocabulary
-  authors:
-  - F Xu
-  - N Juty
-  - C Goble
-  - S Jupp
-  - H Parkinson
-  - M Courtot
-  publisher: Journal of Biomedical Semantics 14 (1), 1-11, 2023
-  date: '2023-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:f2IySw72cVMC
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -750,7 +750,7 @@
   file: google-scholar.yaml
 - id: ceQ3BE0AAAAJ:KxtntwgDAa4C
   title: 'Accelerating cancer omics and precision oncology in health care and research:
-    A Lancet Oncology Commission'
+    a Lancet Oncology Commission'
   authors:
   - R Casolino
   - AL Johns
@@ -1021,21 +1021,6 @@
   publisher: Nature Precedings, 1-1, 2009
   date: '2009-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:YFjsv_pBGBYC
-  gsid: ceQ3BE0AAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:dshw04ExmUIC
-  title: Common Infrastructure for National Cohorts in Europe, Canada, and Africa-CINECA
-  authors:
-  - WP Leaders
-  - FB SFU
-  - M Courtot
-  - I Liyanage
-  - J Dursi
-  - J Rambla
-  publisher: ''
-  date: ''
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:dshw04ExmUIC
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml

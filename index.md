@@ -13,9 +13,20 @@ The Courtot lab develops new software, databases and other necessary components 
 
 Our research focuses on new methods for improving data quality, based on knowledge representation, automated curation and added-value data.
 
+
 {%
   include button.html
   link="research"
+  text="Explore our research themes"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+
+{%
+  include button.html
+  link="publications"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
