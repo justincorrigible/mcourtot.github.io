@@ -1,6 +1,6 @@
 ---
 name: Mélanie Courtot
-image: images/members/20220310_Melanie_Courtot_circle.png
+image: images/members/courtot_headshot.jpg
 role: pi
 aliases:
   - M. Courtot

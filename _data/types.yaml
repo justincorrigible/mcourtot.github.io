@@ -4,7 +4,7 @@
 
 pi:
   icon: fa-solid fa-microscope
-  description: Principal Investigator
+  description: Director Genome Informatics & Principal Investigator
 
 progmanager:
   icon: fa-solid fa-list-check
