@@ -26,8 +26,12 @@ programmer:
   icon: fa-solid fa-code
   description: Programmer
 
-mascot:
+mascotdog:
   icon: fa-solid fa-dog
+  description: Mascot
+
+mascotcat:
+  icon: fa-solid fa-cat
   description: Mascot
 
 # general
