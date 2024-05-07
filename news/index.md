@@ -5,7 +5,7 @@ nav:
   tooltip: News, musings and miscellany
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
+# {% include icon.html icon="fa-solid fa-feather-pointed" %}News
 
 {% include search-box.html %}
 
