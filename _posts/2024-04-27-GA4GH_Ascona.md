@@ -4,7 +4,7 @@ author: melanie-courtot
 tags: GA4GH, meetings
 ---
 
-Last week Jon Eubank, technical associalte director in the Genome Informatics team and I had the pleasure to attend the <a href="https://www.ga4gh.org/event/ga4gh-connect-2/">GA4GH Connect meeting</a> in Ascona, Switzerland. 
+Last week Jon Eubank, technical associate director in the Genome Informatics team and I had the pleasure to attend the <a href="https://www.ga4gh.org/event/ga4gh-connect-2/">GA4GH Connect meeting</a> in Ascona, Switzerland. 
 
 {%
   include figure.html
@@ -13,7 +13,7 @@ Last week Jon Eubank, technical associalte director in the Genome Informatics te
   height="300px"
 %} 
 
-We heard and contributed to differnt sessions around implementing Beacon for <a href="">ICGC-ARGO</a> and the <a href="https://www.mcgill.ca/newsroom/channels/news/government-canada-invests-15m-first-its-kind-pan-canadian-genome-library-352299">Pan Canadian Genome Library</a> (PCGL), as well as work the Regulatory and Ethics working group is initiating. Jon talked about our work on Overture and I presented the new PCGL project to the Steering Committee, highlighting connections between PCGL and GA4GH, with my colleagues David Bujold and Ma'n Zawaati. Slides for the PCGL GA4GH intro are available <a href="https://docs.google.com/presentation/d/1qTeVxbrYqvLw_HsaNENYwCQpfDM44ed9SlrNmdoTEio/edit?usp=sharing">here</a>.
+We heard and contributed to differnt sessions around implementing Beacon for <a href="https://www.icgc-argo.org/">ICGC-ARGO</a> and the <a href="https://www.mcgill.ca/newsroom/channels/news/government-canada-invests-15m-first-its-kind-pan-canadian-genome-library-352299">Pan Canadian Genome Library</a> (PCGL), as well as work the Regulatory and Ethics working group is initiating. Jon talked about our work on Overture and I presented the new PCGL project to the Steering Committee, highlighting connections between PCGL and GA4GH, with my colleagues David Bujold and Ma'n Zawaati. Slides for the PCGL GA4GH intro are available <a href="https://docs.google.com/presentation/d/1qTeVxbrYqvLw_HsaNENYwCQpfDM44ed9SlrNmdoTEio/edit?usp=sharing">here</a>.
 
 
 
