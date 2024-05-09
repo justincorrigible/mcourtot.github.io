@@ -10,6 +10,7 @@ We love all things computational, open source and collaborative. We are always l
 {%
   include figure.html
   image="images/20240509_team.jpg"
+  caption="Courtot lab and Genome Informatics team at the Ontario Cancer Research Centre"
   width="100%"
 %}
 
