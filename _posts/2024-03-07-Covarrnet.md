@@ -2,6 +2,7 @@
 title: CoVaRR-Net - funding award
 author: melanie-courtot
 tags: funding
+image: images/news/202404321_Virusseq_portal.png
 ---
 
 OICR and the Courtot lab have joined the Coronavirus Variants Rapid Response Network (CoVaRR-Net) and have secured additional funding to maintain and expand the VirusSeq data portal until March 2025.

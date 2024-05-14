@@ -2,6 +2,7 @@
 title: GA4GH Connect
 author: melanie-courtot
 tags: GA4GH, meetings
+image: images/news/20240421_GA4GH_Ascona.jpeg
 ---
 
 Last week Jon Eubank, technical associate director in the Genome Informatics team and I had the pleasure to attend the <a href="https://www.ga4gh.org/event/ga4gh-connect-2/">GA4GH Connect meeting</a> in Ascona, Switzerland. 

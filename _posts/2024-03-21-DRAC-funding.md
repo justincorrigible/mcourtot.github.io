@@ -2,6 +2,7 @@
 title: ICGC ARGO datasets on Alliance Cloud - funding award
 author: melanie-courtot
 tags: funding
+image: images/news/202404321_ARGO_portal.png
 ---
 
 We have been awarded a 3 year Digital Research Alliance of Canada award for the "ICGC ARGO datasets on Alliance Cloud" project. This project seeks to move the ICGC ARGO datasets across to the Digital Research Alliance of Canada (Alliance) cloud by leveraging DRAC cloud hosting up to 4PB.
@@ -18,7 +19,7 @@ ICGC ARGO achieves this by leveraging big data and global collaboration to creat
 
 In the coming year, we plan to move the ICGC ARGO datasets across to the Digital Research Alliance of Canada (Alliance) cloud. The specific aims of the project for the coming year will be organized into different activities:
 
-● A1: Operate an ICGC Cloud Distribution Centre in the Alliance Cloud to provide the international cancer research community access to the ICGC ARGO data sets.
-● A2: Expand this infrastructure for ICGC ARGO project data collection.
+* A1: Operate an ICGC Cloud Distribution Centre in the Alliance Cloud to provide the international cancer research community access to the ICGC ARGO data sets.
+* A2: Expand this infrastructure for ICGC ARGO project data collection.
 
 
