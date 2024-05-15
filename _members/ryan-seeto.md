@@ -1,6 +1,6 @@
 ---
 name: Ryan Seeto
-image: 
+image: images/members/Ryan.jpeg
 description: Data scientist
 role: programmer
 aliases:
