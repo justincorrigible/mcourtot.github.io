@@ -15,7 +15,7 @@ Congratulations to [Robin Haw](/members/robin-haw.html) on receiving the OICR Ex
 %} 
 
 
-Robin is highly committed to our success, and has been a leader in many activities. Robin has been critical to securing funding, keeping in with deadlines, reporting on projects and overall ensuring my resources align with our deliverables.
+Robin is highly committed to our success, and has been critical in securing funding, keeping in with deadlines, reporting on projects and overall ensuring my resources align with our deliverables.
 
 Additionally, Robin leads many activities at OICR such as the Informatics retreat, TorBug or the Translational Research Conference.
 
