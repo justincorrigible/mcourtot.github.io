@@ -1,6 +1,6 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: ceQ3BE0AAAAJ:isC4tDSrTZIC2
+- id: ceQ3BE0AAAAJ:isC4tDSrTZIC
   title: 'The gene ontology resource: 20 years and still GOing strong'
   authors:
   - Gene Ontology Consortium
@@ -190,22 +190,6 @@
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:qjMakFHDy7sC
-  title: 'MIREOT: The minimum information to reference an external ontology term'
-  authors:
-  - M Courtot
-  - F Gibson
-  - AL Lister
-  - J Malone
-  - D Schober
-  - RR Brinkman
-  - '...'
-  publisher: Applied Ontology 6 (1), 23-33, 2011
-  date: '2011-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:qjMakFHDy7sC
-  gsid: ceQ3BE0AAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: ceQ3BE0AAAAJ:-f6ydRqryjwC
   title: 'Ontobee: A linked ontology data server to support ontology term dereferencing,
     linkage, query and integration'
@@ -222,6 +206,22 @@
   publisher: Nucleic acids research 45 (D1), D347-D352, 2017
   date: '2017-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:-f6ydRqryjwC
+  gsid: ceQ3BE0AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: ceQ3BE0AAAAJ:qjMakFHDy7sC
+  title: 'MIREOT: The minimum information to reference an external ontology term'
+  authors:
+  - M Courtot
+  - F Gibson
+  - AL Lister
+  - J Malone
+  - D Schober
+  - RR Brinkman
+  - '...'
+  publisher: Applied Ontology 6 (1), 23-33, 2011
+  date: '2011-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:qjMakFHDy7sC
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -556,18 +556,6 @@
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:u9iWguZQMMsC
-  title: Formal medical knowledge representation supports deep learning algorithms,
-    bioinformatics pipelines, genomics data analysis, and big data processes
-  authors:
-  - F Dhombres
-  - J Charlet
-  publisher: Yearbook of medical informatics 28 (01), 152-155, 2019
-  date: '2019-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:u9iWguZQMMsC
-  gsid: ceQ3BE0AAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: ceQ3BE0AAAAJ:4OULZ7Gr8RgC
   title: 'The GA4GH Phenopacket schema: A computable representation of clinical data
     for precision medicine'
@@ -691,6 +679,24 @@
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: ceQ3BE0AAAAJ:a0OBvERweLwC
+  title: Recommendations for the formatting of Variant Call Format (VCF) files to
+    make plant genotyping data FAIR
+  authors:
+  - S Beier
+  - A Fiebig
+  - C Pommier
+  - I Liyanage
+  - M Lange
+  - PJ Kersey
+  - S Weise
+  - '...'
+  publisher: F1000Research 11, 2022
+  date: '2022-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:a0OBvERweLwC
+  gsid: ceQ3BE0AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: ceQ3BE0AAAAJ:LkGwnXOMwfcC
   title: Towards an Adverse Event Reporting Ontology.
   authors:
@@ -712,24 +718,6 @@
   publisher: ''
   date: '2011-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:_FxGoFyzp5QC
-  gsid: ceQ3BE0AAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:a0OBvERweLwC
-  title: Recommendations for the formatting of Variant Call Format (VCF) files to
-    make plant genotyping data FAIR
-  authors:
-  - S Beier
-  - A Fiebig
-  - C Pommier
-  - I Liyanage
-  - M Lange
-  - PJ Kersey
-  - S Weise
-  - '...'
-  publisher: F1000Research 11, 2022
-  date: '2022-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:a0OBvERweLwC
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -762,6 +750,21 @@
   publisher: The lancet oncology 24 (2), 123-125, 2023
   date: '2023-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:KxtntwgDAa4C
+  gsid: ceQ3BE0AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: ceQ3BE0AAAAJ:RHpTSmoSYBkC
+  title: Using OWL reasoning to support the generation of novel gene sets for enrichment
+    analysis
+  authors:
+  - DJ Osumi-Sutherland
+  - E Ponta
+  - M Courtot
+  - H Parkinson
+  - L Badi
+  publisher: Journal of biomedical semantics 9, 1-10, 2018
+  date: '2018-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:RHpTSmoSYBkC
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -841,21 +844,6 @@
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:RHpTSmoSYBkC
-  title: Using OWL reasoning to support the generation of novel gene sets for enrichment
-    analysis
-  authors:
-  - DJ Osumi-Sutherland
-  - E Ponta
-  - M Courtot
-  - H Parkinson
-  - L Badi
-  publisher: Journal of biomedical semantics 9, 1-10, 2018
-  date: '2018-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:RHpTSmoSYBkC
-  gsid: ceQ3BE0AAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: ceQ3BE0AAAAJ:M3ejUd6NZC8C
   title: 'Semantic models in biomedicine: Building interoperating ontologies for biomedical
     data representation and processing in pharmacovigilance'
@@ -879,6 +867,24 @@
   publisher: ICBO, 101-104, 2013
   date: '2013-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:KlAtU1dfN6UC
+  gsid: ceQ3BE0AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: ceQ3BE0AAAAJ:XiSMed-E-HIC
+  title: 'The Canadian VirusSeq Data Portal & Duotang: open resources for SARS-CoV-2
+    viral sequences and genomic epidemiology'
+  authors:
+  - EE Gill
+  - B Jia
+  - CL Murall
+  - R Poujol
+  - MZ Anwar
+  - NS John
+  - J Richardsson
+  - '...'
+  publisher: arXiv preprint arXiv:2405.04734, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:XiSMed-E-HIC
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -1021,98 +1027,6 @@
   publisher: Nature Precedings, 1-1, 2009
   date: '2009-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:YFjsv_pBGBYC
-  gsid: ceQ3BE0AAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:nb7KW1ujOQ8C
-  title: 'Prospects for Fungal Bioremediation of Acidic Radioactive Waste Sites: Characterization
-    and Genome Sequence of Rhodotorula taiwanensis MD1149'
-  authors:
-  - RP Volpe
-  - P Klimenkova
-  - EK Gaidamakova
-  - CE Zhou
-  - BJ Stewart
-  - '...'
-  publisher: ''
-  date: ''
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:nb7KW1ujOQ8C
-  gsid: ceQ3BE0AAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:3s1wT3WcHBgC
-  title: Common Infrastructure for National Cohorts in Europe, Canada, and Africa-CINECA
-  authors:
-  - E Cirillo
-  - K Alasoo
-  - A Michie
-  - T Binsl
-  - "J T\xF6rnroos"
-  - S Kapoor
-  - K Tsukanov
-  - '...'
-  publisher: ''
-  date: ''
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:3s1wT3WcHBgC
-  gsid: ceQ3BE0AAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:blknAaTinKkC
-  title: Cell, chemical and anatomical views of the Gene Ontology
-  authors:
-  - D Osumi-Sutherland
-  - E Ponta
-  - M Courtot
-  - H Parkinson
-  - L Badi
-  publisher: ''
-  date: ''
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:blknAaTinKkC
-  gsid: ceQ3BE0AAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:7PzlFSSx8tAC
-  title: "SPECIFICATION AND USER\u2019S GUIDE"
-  authors:
-  - M Almeida
-  - J Bona
-  - M Brochhausen
-  - W Ceusters
-  - M Courtot
-  - R Dipert
-  - '...'
-  publisher: ''
-  date: ''
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:7PzlFSSx8tAC
-  gsid: ceQ3BE0AAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:9ZlFYXVOiuMC
-  title: 'Effective automated classification using ontology-based annotation: experience
-    with analysis of adverse event reports'
-  authors:
-  - M Courtot
-  - A Ruttenberg
-  - WWL Hsiao
-  - FSL Brinkman
-  - RR Brinkman
-  publisher: ''
-  date: ''
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:9ZlFYXVOiuMC
-  gsid: ceQ3BE0AAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: ceQ3BE0AAAAJ:Se3iqnhoufwC
-  title: Cytometry-Ontology Framework
-  authors:
-  - A Jalali
-  - M Courtot
-  - R Gottardo
-  - R Scheuermann
-  - R Brinkman
-  publisher: ''
-  date: ''
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ceQ3BE0AAAAJ&pagesize=100&citation_for_view=ceQ3BE0AAAAJ:Se3iqnhoufwC
   gsid: ceQ3BE0AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -1299,37 +1213,4 @@
   image: https://upload.wikimedia.org/wikipedia/commons/6/69/McArthur_Lab_Logo.png
   plugin: sources.py
   file: sources.yaml
-- id: eid:2-s2.0-84885705904
-  date: '2008-10-26'
-  image: http://webont.org/owled/owl.png
-  authors:
-  - "M\xE9lanie Courtot"
-  - William J. Bug
-  - Frank Gibson
-  - Allyson L. Lister
-  - James Malone
-  - Daniel Schober
-  - Ryan R Brinkman
-  - Alan Ruttenberg
-  plugin: sources.py
-  file: sources.yaml
-- id: eid:2-s2.0-84872831891
-  date: '2010-07-09'
-  image: https://www.researchgate.net/profile/Yongqun-He/publication/257869977/figure/fig4/AS:293941552402453@1447092535422/Ontological-representation-of-a-vaccine-protection-assay-and-related-variables-The_Q320.jpg
-  authors:
-  - Yongqun He
-  - Zuoshuang Xiang
-  - Thomas Todd
-  - "M\xE9lanie Courtot"
-  - Ryan Brinkman
-  - Jie Zheng
-  - Christian J. Stoeckert Jr.
-  - James Malone
-  - Philippe Rocca-Serra
-  - Susanna Assunta Sansone
-  - Jennifer Fostel
-  - Larisa N. Soldatova
-  - Bjoern Peters
-  - Alan Ruttenberg
-  plugin: sources.py
-  file: sources.yaml
+
