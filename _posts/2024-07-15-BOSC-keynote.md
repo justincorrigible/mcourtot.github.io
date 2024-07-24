@@ -23,7 +23,7 @@ It was both terrifying and exciting to be given such an opportunity; we rarely g
   include figure.html
   image="images/news/TRUE_data.png"
   caption="Data must be TRUE"
-  height="300px"
+  height="500px"
 %} 
 
 Preparing this keynote talk was very energizing as I had the chance to really think about what matters to me today, and where I want to take my research moving forward. It was also nostalgic looking back over my data journey and thinking about the amazing collaborators who have inspired me through the years, and continue to do so today. WHile in some (or many!) cases our paths have diverged, I am really thankful for their input over the last 20 years. I am sure I omitted someone (isn't it always dreadful to make an acknowledgement slide and realize you may forget a name...): I have trully benefitted from so many exceptional interactions that I couldn't even hope to come close to mentioning everybody.
