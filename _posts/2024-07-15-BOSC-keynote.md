@@ -17,7 +17,7 @@ Slides are available [here](https://courtotlab.genomeinformatics.org/images/news
     </embed>
 </object>
 
-It was both terrifying and exciting to be given such an opportunity; we rarely get 1h to discuss our research and topics of interests. I spent an enormous amount of time preparing (there are still post-its all over the walls of my office nook!) as I really wanted to describe my data journey and where I think it is important we, as an open source community, focus our efforts: "with great models, comes great data responsibility". In particular I wanted to advocate for the need to make our data TRUE - Tracked, Reasonable, Understandable and Ethical. This is a pillar in my lab's [research topics](https://courtotlab.genomeinformatics.org/research/) and I beieve will be fundamental in making our data AI-ready and maximally reusable to drive biological insights.
+It was both terrifying and exciting to be given such an opportunity; we rarely get 1h to discuss our research and topics of interests. I spent an enormous amount of time preparing (there are still post-its all over the walls of my office nook!) as I really wanted to describe my data journey and where I think it is important we, as an open source community, focus our efforts: "with great models, comes great data responsibility". In particular I wanted to advocate for the need to make our data TRUE - Tracked, Reasonable, Understandable and Ethical. This is a pillar in my lab's [research topics](https://courtotlab.genomeinformatics.org/research/) and I believe will be fundamental in making our data AI-ready and maximally reusable to drive biological insights.
 
 {%
   include figure.html
