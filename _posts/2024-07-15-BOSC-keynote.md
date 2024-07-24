@@ -21,7 +21,7 @@ It was both terrifying and exciting to be given such an opportunity; we rarely g
 
 {%
   include figure.html
-  image="images/news/TRUE_Data.png"
+  image="images/news/TRUE_data.png"
   caption="Data must be TRUE"
   height="300px"
 %} 
