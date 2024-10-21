@@ -13,12 +13,12 @@ The Courtot lab is located at the Ontario Institute for Cancer Research. It is t
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: progmanager" %}
-{% include list.html data="members" component="portrait" filters="role: programmer" %}
-{% include list.html data="members" component="portrait" filters="role: phd" %}
-{% include list.html data="members" component="portrait" filters="role: undergrad" %}
-{% include list.html data="members" component="portrait" filters="role: admin" %}
+{% include list.html data="members" component="portrait" filters="role: pi, group: " %}
+{% include list.html data="members" component="portrait" filters="role: progmanager, group: " %}
+{% include list.html data="members" component="portrait" filters="role: programmer, group: " %}
+{% include list.html data="members" component="portrait" filters="role: phd, group: " %}
+{% include list.html data="members" component="portrait" filters="role: undergrad, group: " %}
+{% include list.html data="members" component="portrait" filters="role: admin, group: " %}
 
 {% include section.html dark=true %}
 
@@ -36,4 +36,16 @@ We are always interested in new ideas and opportuntities. Students must be accep
 {% include section.html %}
 
 
-{% include list.html data="members" component="portrait" filters="role: mascot" style="small" %}
+## Alumni
+
+These are past lab members who have moved on to other school programs, new jobs, or elsewhere.
+Thanks to your contributions to science and to our hearts. ❤️
+
+{% include list.html data="members" component="portrait" filters="role: pi, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: postdoc, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: phd, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: undergrad, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: programmer, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: mascot, group: alum" style="small" %}
+
+{% include section.html %}

@@ -3,6 +3,7 @@ name: Hercule
 image: images/members/hercule.jpg
 role: mascotcat
 description: Mascot
+group: alum
 #links:
   #github: mcourtot
   #home-page: https://medbio.utoronto.ca/faculty/courtot
